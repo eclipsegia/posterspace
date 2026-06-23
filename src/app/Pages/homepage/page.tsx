@@ -72,7 +72,7 @@ const suggestedPosters: Poster[] = [
     image: f1poster,
   },
   {
-    title: "Olivia Ridrogo",
+    title: "Olivia Rodrigo",
     creator: "Sam Reed",
     category: "Architecture",
     palette: "from-[#1f2937] via-[#d1d5db] to-[#f59e0b]",
